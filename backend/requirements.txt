@@ -1,0 +1,6 @@
+Flask
+Flask-HTTPAuth
+Flask-RESTx
+Flask-SQLAlchemy
+PyMySQL
+gunicorn==20.1.0

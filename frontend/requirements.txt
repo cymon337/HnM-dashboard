@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+numpy
+matplotlib
+seaborn
+plotly
+gunicorn==20.1.0
