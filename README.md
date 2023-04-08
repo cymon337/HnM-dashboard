@@ -13,33 +13,33 @@ Below are some screenshots of the streamlit app:
 
 ### Login Page
 
-![Login Page](screenshots/login_page.png)
+<img src="screenshots/login_page.png" alt="Login Page" width="400">
 
 ### Registration Page
 
-![Registration Page](screenshots/registration_page.png)
+<img src="screenshots/registration_page.png" alt="Registration Page" width="400">
 
 ### Homepage
 
-![KPI Dashboard](screenshots/homepage.png)
+<img src="screenshots/homepage.png" alt="KPI Dashboard" width="400">
 
 ### Customer Data
 
-![Customer KPIs](screenshots/customer_kpis.png)
-![Customer Filters](screenshots/customer_filters.png)
-![Customer Charts](screenshots/customer_charts.png)
+<img src="screenshots/customer_kpis.png" alt="Customer KPIs" width="400">
+<img src="screenshots/customer_filters.png" alt="Customer Filters" width="400">
+<img src="screenshots/customer_charts.png" alt="Customer Charts" width="400">
 
 ### Article Data
 
-![Article KPIs](screenshots/article_kpis.png)
-![Article Filters](screenshots/article_filters.png)
-![Article Charts](screenshots/article_charts.png)
+<img src="screenshots/article_kpis.png" alt="Article KPIs" width="400">
+<img src="screenshots/article_filters.png" alt="Article Filters" width="400">
+<img src="screenshots/article_charts.png" alt="Article Charts" width="400">
 
 ### Transaction Data
 
-![Transaction KPIs](screenshots/transaction_kpis.png)
-![Transaction Filters](screenshots/transaction_filters.png)
-![Transaction Charts](screenshots/transaction_charts.png)
+<img src="screenshots/transaction_kpis.png" alt="Transaction KPIs" width="400">
+<img src="screenshots/transaction_filters.png" alt="Transaction Filters" width="400">
+<img src="screenshots/transaction_charts.png" alt="Transaction Charts" width="400">
 
 ## Overview
 
